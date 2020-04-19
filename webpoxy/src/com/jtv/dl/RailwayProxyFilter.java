@@ -31,7 +31,7 @@ import net.sf.json.JSONObject;
 
 /**
  * 
- * @author ouzf
+ * @author ckq
  */
 public class RailwayProxyFilter implements Filter {
 	private static String redireUrl = "";
